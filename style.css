@@ -1,5 +1,14 @@
-body{
+.cabeçalho {
     background: #1E90FF ;
-}body{
-    background: #1E90FF ;
-}v
+    color: black;
+    display: flex
+    justy-content: space-around;
+    align-items
+}
+.cabeçalho-imagem{
+    width:20%
+}
+.cabeçalho-lista-item{
+display:inline-block;
+margin:0 16px
+}
