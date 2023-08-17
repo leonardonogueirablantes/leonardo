@@ -11,4 +11,13 @@
 .cabeçalho-lista-item{
 display:inline-block;
 margin:0 16px
+font-size: 36px;
+margin: 0 16px
+}
+.escola-imagem{
+    width: 25%;
+}
+
+.escola-imagem{
+    background-imagem: linear-gradient(#008080;#00800)
 }
