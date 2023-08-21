@@ -20,4 +20,17 @@ margin: 0 16px
 
 .escola-imagem{
     background-imagem: linear-gradient(#008080;#00800)
+    color: #4682B4;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
 }
+
+.escola-div-conteudo{
+    width: 35%;
+    font-size: 24px;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+
